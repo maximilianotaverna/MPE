@@ -11,7 +11,9 @@ Almost all the functions in this tool can be controlled with your midi device. T
 
 For example midi map the start selection marker in the "trim" screen to a midi slider or rotary controller and midi map the slice button and then you are be able to create slice markers on an audio sample without ever leaving the midi controller. Or midi map the plugin preset + or - to cycle through plugin presets without leaving your midi keyboard.
 
-Just a little info regarding what an MPC is "From Wikipedia" ..
+I have kept the code to under 5000 lines and all self contained in the main file. The tool performed better like this (latency) especially when triggering midi events 
+
+* Note : Just a little info regarding what an MPC is "From Wikipedia" ..
 Akai MPCs (originally MIDI Production Center, now Music Production Center) are a popular and well respected series of electronic musical instruments originally designed by Roger Linn and produced by the Japanese company Akai from 1988 onward.
 MPC2000XL Operators Manual:http://media.musicalplanet.com/pdf/AKA302.PDF
 

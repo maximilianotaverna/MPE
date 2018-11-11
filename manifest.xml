@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RenoiseScriptingTool doc_version="0">
+  <Name>Musical Programming Environment</Name>
+  <Id>seven.scientist.MPE</Id>
+  <Version>3.7</Version>
+  <ApiVersion>3</ApiVersion>
+  <Author>Maximiliano Taverna [sevenscientist]</Author>
+  <Category>Song</Category>
+  <Description>A Musical Programming Environment, reminiscent of the popular AKAI MPC brand of samplers.</Description>
+  <Homepage>http://tools.renoise.com/tools/musical-programming-environment</Homepage>
+  <Icon/>
+</RenoiseScriptingTool>

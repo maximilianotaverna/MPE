@@ -1,4 +1,4 @@
-# SSMPE
+# MPE
 Musical Programming Environment for Renoise
 
 If you are familiar with the series of drum machine/samplers from AKAI, in particular the MPC2000XL then you know how much fun it can be to make sampled music!
